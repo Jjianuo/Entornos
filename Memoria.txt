@@ -1,0 +1,20 @@
+He intentado imitar una zona del videojuego NieR: Automata. Se ha modelado el terreno, y luego se han ido añadiendo los distintos modelos.
+He metido brillo mediante el efecto bloom de post processing, pero tras añadirle al prefab del jugador la componente de post processing layer, éste no se movía por lo que al final no se ha usado.
+
+Audios: 
+	NieR: Automata OST Kainé / salvation
+Fonts: 
+	https://www.1001fonts.com/charybdis-font.html
+Modelos 3D y texturas: 
+	Jukebox: https://sketchfab.com/3d-models/jukebox-188e71ce378f4b6786054d9f74dd3a25
+	Caja de madera: https://assetstore.unity.com/packages/3d/props/wooden-crates-pbr-44595
+	Texturas del suelo: https://assetstore.unity.com/packages/2d/textures-materials/terrain-textures-4k-179139
+	Skybox: https://assetstore.unity.com/packages/2d/textures-materials/terrain-textures-4k-179139
+	Madera: https://assetstore.unity.com/packages/2d/textures-materials/wood/pbr-log-149788
+	Emil (la esfera con cara): https://sketchfab.com/3d-models/emil-nier-automata-58054aca17684d3b99472ca505c7237b
+	Textura del metal: https://freepbr.com/materials/beaten-up-metal1/
+	Textura de la tela (no se ha usado al final): https://freepbr.com/materials/dirty-office-fabric-pbr/
+	Lágrimas lunares (flores): https://www.cgtrader.com/free-3d-models/plant/flower/lunar-tear
+	Choza: Jianuo
+	Tumba: Jianuo
+	Material de tela y espejos: Jianuo
